@@ -1,0 +1,42 @@
+# Maven #
+/target/
+
+
+# Eclipse #
+.project
+.classpath
+.settings
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.class
+
+
+# IntelliJ #
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+
+# Netbeans #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+# MAC_OS #
+.DS_Store
+
+
+# Astah #
+*.lock
